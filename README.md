@@ -18,11 +18,9 @@ This Bike-Sharing-Dataset has the number of riders for each hour of each day fro
 
 
 ## Jupyter Notebook
-* `Your_first_neural_network.ipynb`
 
 This jupyter notebook describe the whole project from udacity, from the beginning to the end.
-
-The whole project is located in the jupyter notebook file `Your_first_neural_network.ipynb` and it's include the training an the prediction part. The neural network is implemented in the file `my_answer.py` and used from the jupyter notebook.
+The neural network is implemented in the file `my_answer.py` and used from the jupyter notebook.
 
 ### Parameters of training
 
