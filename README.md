@@ -14,7 +14,6 @@ This Bike-Sharing-Dataset has the number of riders for each hour of each day fro
 * Numpy 
 * Pandas
 * Matplotlib
-* Jupyter Notebook
 
 
 ## Jupyter Notebook
